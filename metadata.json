@@ -1,0 +1,6 @@
+{
+  "name": "PrimeX AI",
+  "description": "The ultimate free and unlimited AI hub combining all major AI chatbots, image generators, video creators, coding IDEs, music synthesizers, productivity suites, and deep research tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
